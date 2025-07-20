@@ -1,6 +1,9 @@
 RENCANA BELAJAR WEB PROGRAMMING SEBELUM MASUK KULIAH
 
 - MEMBUAT TAMPILAN DASAR WEBSITE
+-form login
+-tampilan dasar website
+-halaman profil
 
 
 - tujuan saya belajar web programming untuk mandapatkan pekerjaan yang lebih baik lagi

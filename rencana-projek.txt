@@ -1,4 +1,10 @@
 rencana belajar
 membuat flatform video
 membuat flatform game
+rencana-projek.txt
+membuat game basis 2d
+//tujuan belajar web programming
+mendapatkan pekerjaan yang lebih baik
+memiliki skill programming
 membuat game berbasis 2d
+main

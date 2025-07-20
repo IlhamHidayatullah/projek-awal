@@ -8,3 +8,4 @@ mendapatkan pekerjaan yang lebih baik
 memiliki skill programming
 membuat game berbasis 2d
 main
+-belajar bootstrap

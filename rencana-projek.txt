@@ -1,3 +1,4 @@
 rencana belajar
 membuat flatform video
 membuat flatform game
+membuat game basis 2d
